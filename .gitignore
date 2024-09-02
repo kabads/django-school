@@ -1,1 +1,9 @@
 venv/**
+db.sqlite3
+*.pyc
+__pycache__/
+*.pyo
+settings.py
+settings.pyc
+*.log
+.DS_Store
